@@ -1,0 +1,5 @@
+Skill1: Terminal,
+Skill2: GitHub,
+Skill3: Fiddler,
+Skill4: HTTP,
+Skill5: SQL

@@ -1,0 +1,6 @@
+My_favorite_film: "The_Green_Mile",
+My_favotite_serial: "Breaking_Bad",
+My_favorite_food: lasagna,
+My_favorite_seazon: summer,
+Would_like_to_visit: "Montenegro"
+
