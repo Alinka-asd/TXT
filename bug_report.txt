@@ -1,1 +1,14 @@
-
+Bug_report
+    Bug_ID: 1
+    Environment: Windows 11 Pro Chrome 112.0
+    Title: Text in Contact block at the footer of the page isn't translated to selected language
+    Actual result: Text in Contact block at the footer of the page isn't translated to selected language
+    Expected result: Text in Contact block at the footer of the page is translated to selected language
+    Steps: 
+          Step1: Navigate to ххх.com
+          Step2: Select language exсept English German French Italian Vietnamese Russian
+          Step3: Scroll to the footer of the page
+          Step4: Look at Contact block
+    Priority: Trivial
+    Severity: Minor
+    Attachment: Link for video
